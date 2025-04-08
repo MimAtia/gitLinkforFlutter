@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "hello_world",
     "short_name": "hello_world",
+=======
+    "name": "flutter_application_1",
+    "short_name": "flutter_application_1",
+>>>>>>> e5087d345aef42b3e4889bf6e44397ab5994175f
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
